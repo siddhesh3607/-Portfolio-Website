@@ -132,7 +132,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
+    "image": "portfolio",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -244,16 +244,6 @@
     "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
     "image": "phppblform",
     "category": "lamp",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
     "links": {
       "view": "#",
       "code": "#"
